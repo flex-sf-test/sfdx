@@ -8,9 +8,5 @@
         <plural>true</plural>
         <value>Summaries</value>
     </caseValues>
-    <recordTypes>
-        <label><!-- Illingworth_Proposal --></label>
-        <name>Illingworth_Proposal</name>
-    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

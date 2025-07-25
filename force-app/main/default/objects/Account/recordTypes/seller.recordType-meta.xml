@@ -38,36 +38,6 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>City__c</picklist>
-        <values>
-            <fullName>CHE</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>HYD</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>MUMBAI</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>Country__c</picklist>
-        <values>
-            <fullName>INDIA</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>UK</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>USA</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>CustomerPriority__c</picklist>
         <values>
             <fullName>High</fullName>
@@ -233,49 +203,11 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>Picklist1__c</picklist>
-        <values>
-            <fullName>A</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>B</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>C</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>Picklist2__c</picklist>
-        <values>
-            <fullName>1</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>2</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>3</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>4</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>5</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>6</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Rating</picklist>
+        <values>
+            <fullName>Awesome</fullName>
+            <default>false</default>
+        </values>
         <values>
             <fullName>Cold</fullName>
             <default>false</default>
@@ -305,29 +237,6 @@
         </values>
         <values>
             <fullName>Silver</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>State__c</picklist>
-        <values>
-            <fullName>LN</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>MH</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>NY</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>TN</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>WA</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -374,6 +283,25 @@
         </values>
         <values>
             <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>custom_pick_list_field__c</picklist>
+        <values>
+            <fullName>val2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>val3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>val4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>val77</fullName>
             <default>false</default>
         </values>
     </picklistValues>

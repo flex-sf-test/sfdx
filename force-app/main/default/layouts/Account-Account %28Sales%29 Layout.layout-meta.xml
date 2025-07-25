@@ -46,10 +46,6 @@
                 <field>NumberOfEmployees</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>ReturningCustomer__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Required</behavior>
                 <field>External_TXT__c</field>
             </layoutItems>

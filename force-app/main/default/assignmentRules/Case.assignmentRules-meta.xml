@@ -4,12 +4,12 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>flexagon9@flexagon.com</assignedTo>
+            <assignedTo>flexagon8@flexagon.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>equals</operation>
-                <value>US,USA,United States,United States of America,States</value>
+                <value>US,USA,United States,United States of America</value>
             </criteriaItems>
             <criteriaItems>
                 <field>Account.SLA__c</field>
@@ -23,7 +23,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>flexagon9@flexagon.com</assignedTo>
+            <assignedTo>flexagon8@flexagon.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -40,10 +40,9 @@
                 <operation>contains</operation>
                 <value>Customer</value>
             </criteriaItems>
-            <template>unfiled$public/MarketingProductInquiryResponse</template>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>flexagon9@flexagon.com</assignedTo>
+            <assignedTo>flexagon8@flexagon.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -62,7 +61,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>flexagon9@flexagon.com</assignedTo>
+            <assignedTo>flexagon8@flexagon.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -81,7 +80,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>flexagon9@flexagon.com</assignedTo>
+            <assignedTo>flexagon8@flexagon.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>
