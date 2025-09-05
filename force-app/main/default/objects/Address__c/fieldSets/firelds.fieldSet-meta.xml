@@ -4,6 +4,7 @@
     <availableFields>
         <field>Name</field>
         <isFieldManaged>false</isFieldManaged>
+        
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
