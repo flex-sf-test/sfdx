@@ -12,7 +12,6 @@
             <outputField>SLA__c</outputField>
         </mappingFields>
         <outputObject>Account</outputObject>
-        
     </objectMapping>
     <opportunityCreationOptions>VisibleOptional</opportunityCreationOptions>
 </LeadConvertSettings>
